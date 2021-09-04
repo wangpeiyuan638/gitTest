@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+  <div>页面修改</div>
     <router-view />
   </div>
 </template>
