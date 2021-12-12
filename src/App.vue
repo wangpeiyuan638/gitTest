@@ -3,7 +3,7 @@
   <div>页面修改</div>
     修改app.vue
     jjjj
-    kkkkk
+    kk6666
     <router-view />
   </div>
 </template>
